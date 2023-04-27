@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Учеба | Academic</title>
+    <link>https://example.com/category/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/</link>
+      <atom:link href="https://example.com/category/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>Учеба</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Учеба</title>
+      <link>https://example.com/category/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/</link>
+    </image>
+    
+    <item>
+      <title>Язык разметки Маркдаун</title>
+      <link>https://example.com/post/%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;описание&#34;&gt;Описание&lt;/h2&gt;
+&lt;p&gt;Markdown — это простой язык разметки, используемый для создания форматированного текста (например, HTML) с помощью текстового редактора. Он позволяет добавлять к тексту базовое форматирование, используя символы, известные и доступные на всех клавиатурах. Размер шрифта, цвет и другие расширенные параметры недоступны в Markdown.&lt;/p&gt;
+&lt;p&gt;Использование Markdown&lt;/p&gt;
+&lt;p&gt;Чтобы использовать Markdown, сначала ознакомьтесь с синтаксисом в CommonMark, а затем попробуйте его в Заметках или на Форуме Vivaldi.&lt;/p&gt;
+&lt;p&gt;Некоторые примеры Markdown:
+Синтаксис	Результат
+&lt;em&gt;Курсив&lt;/em&gt;	Курсив
+&lt;strong&gt;Жирный&lt;/strong&gt;	Жирный
+&lt;del&gt;Зачеркнутый&lt;/del&gt;	Зачеркнутый
+&lt;a href=&#34;https://vivaldi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;	Ссылка
+Столбец 1 | Столбец 2 | Столбец 3 |
+:——- | :——: | ——: |
+Слева | По центру | Справа |
+Столбец 1 	Столбец 2 	Столбец 3
+Слева 	По центру 	Справа&lt;/p&gt;
+&lt;h1 id=&#34;заголовок-1&#34;&gt;Заголовок 1&lt;/h1&gt;
+&lt;h2 id=&#34;заголовок-2&#34;&gt;Заголовок 2&lt;/h2&gt;
+&lt;h3 id=&#34;заголовок-3&#34;&gt;Заголовок 3&lt;/h3&gt;
+&lt;p&gt;Заголовок 1
+Заголовок 2
+Заголовок 3
+Изображение&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Язык разметки Маркдаун</title>
+      <link>https://example.com/post/%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/</guid>
+      <description>&lt;h2 id=&#34;описание&#34;&gt;Описание&lt;/h2&gt;
+&lt;p&gt;Markdown — это простой язык разметки, используемый для создания форматированного текста (например, HTML) с помощью текстового редактора. Он позволяет добавлять к тексту базовое форматирование, используя символы, известные и доступные на всех клавиатурах. Размер шрифта, цвет и другие расширенные параметры недоступны в Markdown.&lt;/p&gt;
+&lt;p&gt;Использование Markdown&lt;/p&gt;
+&lt;p&gt;Чтобы использовать Markdown, сначала ознакомьтесь с синтаксисом в CommonMark, а затем попробуйте его в Заметках или на Форуме Vivaldi.&lt;/p&gt;
+&lt;p&gt;Некоторые примеры Markdown:
+Синтаксис	Результат
+&lt;em&gt;Курсив&lt;/em&gt;	Курсив
+&lt;strong&gt;Жирный&lt;/strong&gt;	Жирный
+&lt;del&gt;Зачеркнутый&lt;/del&gt;	Зачеркнутый
+&lt;a href=&#34;https://vivaldi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;	Ссылка
+Столбец 1 | Столбец 2 | Столбец 3 |
+:——- | :——: | ——: |
+Слева | По центру | Справа |
+Столбец 1 	Столбец 2 	Столбец 3
+Слева 	По центру 	Справа&lt;/p&gt;
+&lt;h1 id=&#34;заголовок-1&#34;&gt;Заголовок 1&lt;/h1&gt;
+&lt;h2 id=&#34;заголовок-2&#34;&gt;Заголовок 2&lt;/h2&gt;
+&lt;h3 id=&#34;заголовок-3&#34;&gt;Заголовок 3&lt;/h3&gt;
+&lt;p&gt;Заголовок 1
+Заголовок 2
+Заголовок 3
+Изображение&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
